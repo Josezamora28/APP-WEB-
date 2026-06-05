@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "name": "audifonos",
+      "brand": "lenovo",
+      "category": "Tecnología y Electrónica",
+      "features": [
+        "bateria de larga duracion"
+      ],
+      "tone": "professional",
+      "targetAudience": "ingenierio",
+      "generated": {
+        "success": true,
+        "title": "Auriculares Lenovo: Productividad Ininterrumpida para Ingenieros",
+        "description": "Diseñados para el rigor de la ingeniería, los auriculares Lenovo ofrecen una batería de ultralarga duración que garantiza concentración ininterrumpida. Experimente audio nítido y comunicaciones claras en cualquier proyecto, desde el diseño detallado hasta reuniones virtuales extensas. Confiabilidad y rendimiento profesional para potenciar su jornada laboral.",
+        "benefits": [
+          "Autonomía excepcional para jornadas de trabajo extensas.",
+          "Enfoque ininterrumpido en proyectos complejos.",
+          "Comunicación clara y precisa en reuniones virtuales.",
+          "Comodidad ergonómica para uso prolongado.",
+          "Rendimiento fiable para herramientas de ingeniería."
+        ],
+        "seoKeywords": [
+          "auriculares ingenieros",
+          "audífonos batería larga duración",
+          "Lenovo audio profesional",
+          "audífonos trabajo remoto",
+          "audio para ingeniería",
+          "auriculares alta autonomía",
+          "tecnología audio productividad",
+          "Lenovo audífonos profesionales",
+          "audífonos para concentración"
+        ],
+        "ctas": [
+          "Maximice su Productividad",
+          "Ver Colección para Ingenieros",
+          "Adquirir Auriculares Lenovo"
+        ]
+      },
+      "id": "bc2683ef-8654-4f17-804c-78edd5b57d36"
+    }
+  ],
+  "categories": [
+    "Tecnología y Electrónica",
+    "Moda y Accesorios",
+    "Hogar y Decoración",
+    "Salud y Belleza",
+    "Deportes y Aire Libre",
+    "Alimentos y Bebidas",
+    "Juguetes y Bebés",
+    "Automotriz"
+  ]
+}
